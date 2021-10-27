@@ -14,3 +14,4 @@ Tornado Cash is a technology conceived to handle this problem. In Tornado’s ow
 “Tornado Cash improves transaction privacy by breaking the on-chain link between source and destination addresses. It uses a smart contract that accepts ETH & other tokens deposits from one address and enables their withdrawal from a different address.”
 
 But what happens if a user deposits from an account and withdraws using the same account? What if they withdraw using an account that has a long transaction history with the account that made the deposit? These are some of the most common reveals and privacy threa
+
