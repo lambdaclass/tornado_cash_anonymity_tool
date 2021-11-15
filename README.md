@@ -15,3 +15,10 @@ Tornado Cash is a technology conceived to handle this problem. In Tornado’s ow
 
 But what happens if a user deposits from an account and withdraws using the same account? What if they withdraw using an account that has a long transaction history with the account that made the deposit? These are some of the most common reveals and privacy threa
 
+---
+
+## Heuristic implementations 
+
+* First heuristic notebook (Julia) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lambdaclass/tornado_cash_anonymity_tool/HEAD?filepath=notebooks%2Ffirst_heuristic.ipynb)
+
+* Second heuristic notebook (Julia) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lambdaclass/tornado_cash_anonymity_tool/HEAD?filepath=notebooks%2Fsecond_heuristic.ipynb) 
