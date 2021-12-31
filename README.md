@@ -7,7 +7,7 @@ The development of tools to protect anonymity must be focused around the differe
 This is really alpha code. We are still working on the final version of the heuristics and in an unified notebook.
 
 ## Heuristic implementations 
-* Unified heuristic notebook(Python) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lambdaclass/tornado_cash_anonymity_tool/HEAD?filepath=python_notebooks%2Funified_heuristics_python.ipynb)] 
+* Unified heuristic notebook(Python) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lambdaclass/tornado_cash_anonymity_tool/HEAD?filepath=python_notebooks%2Funified_heuristics_python.ipynb)
  
 * First heuristic notebook (Julia) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lambdaclass/tornado_cash_anonymity_tool/HEAD?filepath=notebooks%2Ffirst_heuristic.ipynb)
 
